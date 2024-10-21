@@ -1,1 +1,4 @@
 esto es una practica de git
+para seguir avanzando en PHP
+aunque en realidad estoy bastanta lento
+enserio necesito compromiso con mi futuro y el de mi familia.
